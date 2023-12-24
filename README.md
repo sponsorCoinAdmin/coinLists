@@ -1,1 +1,1 @@
-# coinLists
+# coins
